@@ -14,11 +14,11 @@ I turn everyday problems into scripts, dashboards, and tools I can use.
 
 ## A little about me
 
-I'm Jeff. Online and in games, I usually go by **Enkiel**; **njinco** is the username I use here on GitHub. I work on network automation, monitoring, self-hosted services, and web apps—from firewall utilities and Linux scripts to publishing tools and Discord bots. I also adapt open-source projects to fit my own workflows.
+I'm Jeff. Online and in games, I usually go by **Enkiel**; **njinco** is my GitHub handle. I build things when an idea or problem grabs me—network tools, self-hosted services, dashboards, bots, and web experiments.
 
-I know Python and a bit of Java, but these days I mostly vibe code with my trusty AI agents. They do most of the coding while I guide the work and review what they produce.
+I know Python and a bit of Java, and I've deployed full stacks myself. These days, my AI agents do more of the heavy lifting, while I steer the work, review the code, and make sure everything actually works.
 
-Away from the terminal, I'm into gaming, photography, diving, and FPV. My projects bring together the systems I manage, the communities I spend time in, and the things I enjoy creating.
+Outside tech, I'm into gaming, photography, diving, and FPV.
 
 ## What I work on
 
